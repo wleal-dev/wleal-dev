@@ -49,4 +49,4 @@ Tools         Git • GitHub
 
 ---
 
-<sub>Porto Alegre, RS • code by day, lift by night</sub>
+<sub>Porto Alegre, RS • code by day</sub>
