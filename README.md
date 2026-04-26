@@ -30,8 +30,8 @@ Trabalho com sistemas ERP municipais em produção — extraindo dados, criando 
 
 ## Projetos em destaque
 
-**[Café Aroma — Sistema de Gestão para Cafeteria](https://github.com/wleal-dev/cafe-leal-portfolio)**  
-PDV completo com comandas, caixa, compras e relatórios financeiros. Node.js · Express · PostgreSQL · JWT · Vercel · [demo ao vivo](https://cafe-leal-portfolio.vercel.app)
+**[Café Aroma — Sistema de Gestão para Cafeteria](https://github.com/wleal-dev/cafe-aroma-portfolio)**  
+PDV completo com comandas, caixa, compras e relatórios financeiros. Node.js · Express · PostgreSQL · JWT · Vercel · [demo ao vivo](https://cafe-aroma-portfolio.vercel.app)
 
 ---
 
